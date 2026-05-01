@@ -1,1 +1,1 @@
-// philharmonic-connector-impl-llm-anthropic: placeholder
+//! Placeholder for the Anthropic LLM connector implementation.
